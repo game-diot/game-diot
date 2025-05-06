@@ -80,7 +80,7 @@
 
 <br><br>
 
-<h2 align="center">我的技术世界 🌐</h2>
+<h2 align="center">我的技术工具 🌐</h2>
 我的技术工具包括：
 <br><br>
 
