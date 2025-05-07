@@ -68,7 +68,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81+%E6%88%91%E6%98%AF%E6%B3%BD%E6%B4%81;Hello%EF%BC%81I+am+Game-idiot+ZeJie"/></h1>
 
-  <img align="right" alt="编程中" src="介绍.png" style="width: 400px; height: 250; max-width: 100%; object-fit: contain;">
+  <img align="right" alt="编程中" src="图片1.png" style="width: 400px; height: 250; max-width: 100%; object-fit: contain;">
 
 <p>
 <br><br>
